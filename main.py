@@ -26,7 +26,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Title (centered with HTML)
-st.markdown("<div class='title'>⏳ Countdown to May 10th, 2025 @ 12:30 AM</div>", unsafe_allow_html=True)
+st.markdown("<div class='title'>⏳ Countdown to when you will back in my arms again</div>", unsafe_allow_html=True)
 
 # Center the image using Streamlit columns
 left, center, right = st.columns([2, 2, 1])  # Center column is wider
